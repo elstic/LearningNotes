@@ -1,7 +1,7 @@
 package 多线程.demoB;
 
 import java.util.concurrent.TimeUnit;
-/**      死锁程序        */
+/**      这是一个手写的死锁程序dmeo        */
 class  HoldLock implements Runnable{
    private String lockA;
    private String lockB;
